@@ -3995,12 +3995,23 @@ input, select, textarea {
 
 
 video {
-	width: 50%;
+	width: 70%;
 	padding: 20px;
 	border: 1px black;
 }
 
+@media only screen and (max-width: 600px) {
+	video {
+		width: 100%;
+	}
+
+	header p.larger-p {
+		/* line-height: 2rem; */
+		font-size: 0.8rem;
+	}
+}
+
 header p.larger-p {
 	line-height: 2rem;
-	font-size: 1.15rem
+	font-size: 1.15rem;
 }
