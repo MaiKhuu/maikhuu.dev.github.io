@@ -2672,6 +2672,7 @@ input, select, textarea {
 			order: 1;
 			border-radius: 0;
 			width: 40%;
+
 		}
 
 			.spotlight .image img {
@@ -4001,5 +4002,5 @@ video {
 
 header p.larger-p {
 	line-height: 2rem;
-	font-size: 1.35rem
+	font-size: 1.15rem
 }
