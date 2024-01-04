@@ -1,2 +1,2 @@
-# maikhuu-dev-site
+# maikhuu.dev.github.io
 My personal Software Engineer website
